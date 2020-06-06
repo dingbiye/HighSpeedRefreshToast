@@ -15,7 +15,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.dingbiye:HighSpeedRefreshToast:Tag'
+	        implementation 'com.github.dingbiye:HighSpeedRefreshToast:1.0.2'
 	}
 
 
