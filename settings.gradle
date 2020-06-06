@@ -1,2 +1,3 @@
-include ':globaltoast', ':app'
+//include ':globaltoast', ':app'
+include ':globaltoast'
 rootProject.name='HighSpeedRefreshToast'
